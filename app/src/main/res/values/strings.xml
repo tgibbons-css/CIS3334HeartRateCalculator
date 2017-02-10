@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Heart Rate Calculator</string>
+    <string name="enter_your_age">Enter your age:</string>
+    <string name="DefaultAge">40</string>
+    <string-array name="exercise_level">
+        <item>Moderate</item>
+        <item>Average</item>
+        <item>Vigorous</item>
+    </string-array>
+</resources>
